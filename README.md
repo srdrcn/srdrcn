@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Serdar :)</h1>
-<h3 align="center">A passionate DevOps Engineer from Turkey</h3>
 
 - 🔭 I’m currently working on [Docker Registry UI](https://github.com/srdrcn/registryui)
 
