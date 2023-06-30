@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serdar :)</h1>
 
-- 🔭 I’m currently working on [Docker Registry UI](https://github.com/srdrcn/registryui)
-
 - 📫 How to reach me **canserdarr@hotmail.com.tr**
 
 <p align="left">
